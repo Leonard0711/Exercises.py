@@ -1,4 +1,7 @@
 .env
 
 bin/
-
+lib64/
+lib/
+share/
+include/
